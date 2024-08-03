@@ -20,4 +20,4 @@
 - 🐦 [Twitter](你的 Twitter 链接)
 
 ## GitHub 统计
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=liujue0825&show_icons=true&theme=radical)
